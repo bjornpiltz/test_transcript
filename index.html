@@ -1,11 +1,13 @@
+<!DOCTYPE html>
 <html>
     <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/normalize.min.css"/>
         <link href='//fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'>
-
-
-
 
         <script>
           function loadPage(filename) {
@@ -33,13 +35,11 @@
                   timestamp = timestamp.replace("[", "");
 
                   // Append the transcript line to the HTML content
-                  //htmlContent += '<p><strong>' + timestamp + ':</strong> ' + text + '</p>';
                   htmlContent += '<tr><td align= "left" style="vertical-align:top;padding-right:15px;color:gray">' + timestamp + '</td><td> ' + text + '</td></tr>';
 
 
                 }
                 else{
-                  //htmlContent += '<p>' + lines[i] + '</p>';
                   htmlContent += '</table><table><tr style = "margin-bottom:-40px;"><th></th><th align= "left">' + lines[i] + '</th></tr>';
                 }
               }
@@ -59,8 +59,6 @@
             $(document).ready(function() {
               document.getElementById("clickMeSE").onclick = function () { loadPage('Jonung.txt'); };
               document.getElementById("clickMeEN").onclick = function () { loadPage('Jonung.en.txt'); };
-              //document.getElementById("clickMeSE").onclick = function () { $('#transcriptContainer').html("A"); };
-              //document.getElementById("clickMeEN").onclick = function () { $('#transcriptContainer').html("B"); };
               loadPage('Jonung.txt')
             });
           </script>
