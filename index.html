@@ -3,12 +3,14 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css"/>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/normalize.min.css"/>
-        <link href='//fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'>
-
+        <link rel="stylesheet" href="https://unpkg.com/purecss@2.1.0/build/pure-min.css">
+        <link rel="stylesheet" href="https://unpkg.com/purecss@2.1.0/build/grids-responsive-min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="./static/css/tuftesque.css">
+        <script src="./static/js/lightbox.js"></script>
         <script>
           function loadPage(filename) {
               // Read the text file
@@ -30,17 +32,19 @@
                   var timestamp = parts[0];
                   var text = parts[1].trim();
 
-                  const regex = /\.\d{3} --> \d{2}:\d{2}/g
+                  const regex = /\.\d{3} --> (\d{2}:)?\d{2}:\d{2}\.\d{3}/g
                   timestamp = timestamp.replace(regex, "");
                   timestamp = timestamp.replace("[", "");
 
                   // Append the transcript line to the HTML content
-                  htmlContent += '<tr><td align= "left" style="vertical-align:top;padding-right:15px;color:gray">' + timestamp + '</td><td> ' + text + '</td></tr>';
+                  htmlContent += '<tr><td align= "left" style="vertical-align:top;padding-right:15px;color:gray">' +
+                                 timestamp + '</td><td>' +
+                                 text + '</td></tr>';
 
 
                 }
                 else{
-                  htmlContent += '</table><table><tr style = "margin-bottom:-40px;"><th></th><th align= "left">' + lines[i] + '</th></tr>';
+                  htmlContent += '<tr><th></th><th align= "left">' + lines[i] + '</th></tr>';
                 }
               }
                 htmlContent += '</table>';
@@ -54,12 +58,12 @@
     <body>
       <input id="clickMeEN" type="button" value="English"/>
       <input id="clickMeSE" type="button" value="Swedish"/>
-        <div id="transcriptContainer"></div>
+        <div id="transcriptContainer" class="section level1"></div>
         <script>
             $(document).ready(function() {
               document.getElementById("clickMeSE").onclick = function () { loadPage('Jonung.txt'); };
               document.getElementById("clickMeEN").onclick = function () { loadPage('Jonung.en.txt'); };
-              loadPage('Jonung.txt')
+              loadPage('Sparre.txt')
             });
           </script>
     </body>
