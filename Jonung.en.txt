@@ -1,5 +1,5 @@
-<h1><a href= "https://sverigesradio.se/artikel/7621007">The economical price of the pandemic</a></h1>
-Debate in Swedish public service radio between Lars Jonung and Lars Calmfors, Dec 10, 2020. 
+<h1>The economic price of the pandemic</h1>
+Debate in Swedish public service radio between Lars Jonung and Lars Calmfors, <a href= "https://sverigesradio.se/artikel/7621007">Dec 10, 2020</a>. 
 <i>Automatic translation by whisper.cpp.</i>
 Host:
 [00:00.000 --> 00:04.920] We will talk about the economy and corona restrictions.
@@ -97,7 +97,7 @@ Jonung:
 [06:07.240 --> 06:10.040] It is children who are affected by school closures.
 [06:10.120 --> 06:12.800] Probably women are more affected than men.
 [06:12.880 --> 06:18.680] Women have had to take over a lot of tasks that would otherwise go unnoticed.
-[06:18.760 --> 06:23.360] The entire scientific support for lockdown policies is <inaudible>.
+[06:18.760 --> 06:23.360] The entire scientific support for lockdown policies is [interrupted].
 Host:
 [06:23.440 --> 06:26.840] We'll let Lars Calmfors in here too.
 [06:26.920 --> 06:31.600] What do you say about that? There is no evidence that it would help...
