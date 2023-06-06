@@ -1,0 +1,185 @@
+<h1><a href= "https://sverigesradio.se/artikel/7621007">Det ekonomiska priset för pandemin</a></h1>
+Debatt i SR: P1 mellan Lars Jonung och Lars Calmfors, 10 dec 2020. <i>Automatiskt transkript med hjälp av whisper.cpp.</i>
+Programledare:
+[00:00.000 --> 00:04.920]  Vi ska tala om ekonomin och coronarestriktioner.
+[00:05.000 --> 00:09.040]  Det är ett svårt läge i pandemin med stor smittspridning.
+[00:09.120 --> 00:12.920]  Skulle Sverige klara en hårdare nedstängning av samhället–
+[00:13.000 --> 00:14.840]  –för att stoppa coronasmittan?
+[00:14.920 --> 00:18.400]  Eller skulle priset bli för högt för svensk ekonomi–
+[00:18.480 --> 00:21.880]  –med risk för konkurser och ökad arbetslöshet?
+[00:21.960 --> 00:25.600]  Meningarna om detta går isär bland ekonomerna.
+[00:25.680 --> 00:28.320]  Igår sa regeringen att den vill kunna stänga ner–
+[00:28.320 --> 00:31.240]  –bland annat gym och köpcentra med en ny pandemilag–
+[00:31.320 --> 00:34.720]  –som enligt planerna ska börja gälla om tre månader.
+[00:34.800 --> 00:36.440]  Vi har med oss Lars Calmfors
+[00:36.520 --> 00:39.880]  –som är professor i nationalekonomi vid Stockholms universitet–
+[00:39.960 --> 00:43.960]  –och sitter i finansministerns referensgrupp för coronaåtgärder.
+[00:44.040 --> 00:46.880]  –God morgon. –God morgon.
+[00:46.960 --> 00:53.080]  Du tycker att det borde vara strängare restriktioner redan nu. Hur då?
+Calmfors:
+[00:53.160 --> 00:58.160]  Ja, vi är i ett väldigt kritiskt läge när det gäller smittspridningen.
+[00:58.960 --> 01:00.760]  Inför julen här.
+[01:00.840 --> 01:04.920]  Jag tror att det behövs mer om vi ska kunna stoppa det hela–
+[01:05.000 --> 01:08.520]  –eller hålla ner det på en lite lägre nivå.
+[01:08.600 --> 01:12.600]  Jag tycker att argumenten för tuffare restriktioner har stärkts–
+[01:12.680 --> 01:14.640]  –i och med att vi nu ser framför oss–
+[01:14.720 --> 01:20.720]  –att vi får vaccinationsprogram som rullas ut här under våren.
+[01:20.800 --> 01:27.240]  Det betyder att det gäller att klara och överbrygga en period fram till dess.
+[01:27.400 --> 01:32.600]  Men i och med att vi ser det framför oss, så stärks argumenten–
+[01:32.680 --> 01:35.800]  –för att vi ska göra den extra ansträngningen nu.
+Programledare:
+[01:35.880 --> 01:42.360]  Vad är det för nedstängning du vill se? Vad handlar det om som behöver stängas ner ytterligare?
+Calmfors:
+[01:42.440 --> 01:50.960]  Jag tycker att man nog behöver stänga gym, restauranger och vissa butiker.
+[01:51.040 --> 01:55.880]  Det behövs mer bindande restriktioner där.
+Programledare:
+[01:56.760 --> 02:03.680]  Många varnar för att en ökad nedstängning leder till arbetslöshet och konkurser.
+[02:03.760 --> 02:07.160]  Restauranger är redan väldigt hårt pressade.
+[02:07.240 --> 02:10.720]  Hur ser du på priset för att stänga ner?
+Calmfors:
+[02:10.800 --> 02:17.120]  Det är klart att omeddelbart så att säga så leder ju förstås mer nedstängning–
+[02:17.200 --> 02:20.600]  –till svårare ekonomiska konsekvenser.
+[02:20.680 --> 02:24.360]  Men man måste se det i ett lite längre tidsperspektiv.
+[02:24.440 --> 02:29.720]  Det finns en del som tyder på att om man gör en hårdare nedstängning under kort tid–
+[02:29.800 --> 02:34.200]  –så skulle det rent av kunna vara ekonomiskt fördelaktigt.
+[02:34.280 --> 02:40.560]  Om man jämför med att vi har ganska hårda restriktioner under väldigt lång tid...
+[02:40.640 --> 02:45.040]  Men även om det inte skulle vara fallet–
+[02:45.120 --> 02:49.480]  –att det är en ekonomisk vinst att göra som jag föreslår–
+[02:49.480 --> 02:57.920]  –så tycker jag att vinsten i form av sparade människoliv ändå är värd att ta.
+Programledare:
+[02:58.000 --> 03:05.400]  Vi har också med oss Lars Jonung, professor i nationalekonomi vid Lunds universitet.
+[03:05.480 --> 03:10.000]  –God morgon. –Du tycker inte att samhället ska stängas ner.
+[03:10.080 --> 03:11.760]  Varför inte?
+Jonung:
+[03:11.840 --> 03:16.480]  Jag tycker att vår coronapolitik ska baseras på vetenskapliga belägg.
+[03:16.520 --> 03:22.440]  Jag är just nu involverad i en studie vid Johns Hopkins universitet i USA–
+[03:22.520 --> 03:29.680]  –där vi undersöker effekten av nedstängningar på dödligheten i corona.
+[03:29.760 --> 03:34.200]  Resultaten pekar på att nedstängningspolitiken–
+[03:34.280 --> 03:38.880]  –har inga eller mycket svaga effekter på dödligheten.
+[03:38.960 --> 03:44.080]  Däremot har nedstängningar katastrofala effekter på samhällsekonomin.
+[03:44.760 --> 03:47.800]  Vi har inte den här byteskvoten–
+[03:47.880 --> 03:53.280]  –mellan att vi ska få nån sorts hälsoeffekt från nedstängningar–
+[03:53.360 --> 03:56.960]  –och allvarliga konsekvenser på samhällsekonomin.
+Programledare:
+[03:57.040 --> 04:00.920]  Hur säker är den slutsatsen, skulle du säga–
+[04:01.000 --> 04:07.400]  –att nedstängning inte skulle spara människoliv?
+Jonung:
+[04:07.480 --> 04:09.960]  All forskning är preliminär.
+[04:10.000 --> 04:16.040]  Det är först om tre, fyra, fem år som vi kan faststå vilken politik som är den bästa.
+[04:16.120 --> 04:22.080]  Men vi måste fatta våra beslut på grundval av den vetenskapliga evidens vi har i dag.
+[04:22.160 --> 04:24.640]  Den pekar väldigt tydligt på–
+[04:24.720 --> 04:31.040]  –att nedstängningar är en icke-lovande väg för att möta coronaepidemin.
+Programledare:
+[04:31.120 --> 04:34.520]  Vad finns det för risker med ekonomin?
+[04:34.560 --> 04:40.360]  Hur skulle den påverkas om man skulle stänga ner på det vis som Lars Calmfors säger?
+[04:40.440 --> 04:43.320]  Stänga gym, stänga restauranger en tid.
+Jonung:
+[04:43.400 --> 04:48.560]  Det är ganska ofarliga nedstängningar jämfört med nedstängningar–
+[04:48.640 --> 04:55.200]  –som används i länder som Belgien, Italien, Spanien och Frankrike–
+[04:55.280 --> 04:59.920]  –där man har använt sig av åtgärder som vi inte kan genomföra i Sverige–
+[04:59.960 --> 05:05.960]  –eftersom vi har en grundlag som garanterar varje svensk medborgare fri rörlighet–
+[05:06.040 --> 05:08.960]  –i vårt samhälle och över våra gränser.
+[05:09.040 --> 05:15.400]  Den grundlagen har lyckligtvis hindrat oss från att ha hårda nedstängningar.
+Programledare:
+[05:15.480 --> 05:19.800]  Men om vi talar om diskussionen–
+[05:19.880 --> 05:23.960]  –och det som finns i regeringens förslag till pandemilag–
+[05:24.000 --> 05:29.840]  –till exempel att kunna stänga köpcentra och gym–
+[05:29.920 --> 05:34.960]  –och begränsa besök på restauranger, vad säger du om det då?
+Jonung:
+[05:35.040 --> 05:40.120]  Det finns för föga vetenskapligt stöd för den typen av nedstängningspolitik.
+[05:40.200 --> 05:42.200]  Det är mer symbolpolitik.
+[05:42.280 --> 05:48.120]  I en allmän pandemipanik vill regeringen framstå som handlingskraftiga.
+[05:48.200 --> 05:52.600]  –Då gör man sådana här saker. – Men vad skulle det betyda för ekonomin, då?
+[05:52.640 --> 05:58.800]  Alla nedstängningar har kraftigt negativa effekter på samhällsekonomin.
+[05:58.880 --> 06:02.480]  Inte nog med det. Den har besvärliga fördelningseffekter.
+[06:02.560 --> 06:07.160]  Det är låginkomsttagare och lågutbildade som drabbas av nedstängningar.
+[06:07.240 --> 06:10.040]  Det är barn som drabbas av att skolor stängs.
+[06:10.120 --> 06:12.800]  Antagligen är det kvinnor som drabbas hårdare än män.
+[06:12.880 --> 06:18.680]  Kvinnor har tvingats att ta över en massa uppgifter som annars skulle slippa undan.
+[06:18.760 --> 06:23.360]  Hela det vetenskapliga stödet för nedstängningspolitik är <ohörbart>.
+Programledare:
+[06:23.440 --> 06:26.840]  Vi ska släppa in Lars Calmfors här också.
+[06:26.920 --> 06:31.600]  Vad säger du om det? Det finns ingen stöd för att det skulle hjälpa–
+[06:31.680 --> 06:35.640]  –att stänga ner ekonomin mer.
+Calmfors:
+[06:35.720 --> 06:42.280]  Ja, alltså... Det produceras väldigt mycket forskning väldigt fort nu.
+[06:42.360 --> 06:49.400]  Det finns forskningsresultat som pekar i många olika riktningar.
+[06:49.480 --> 06:55.200]  Jag håller inte alls med Lars Jonungs bestämda slutsatser här.
+[06:55.280 --> 07:01.440]  Vi ser också nu hur man i länder ute i Europa som har tillämpat hårdare nedstängningar–
+[07:01.520 --> 07:05.080]  –så får man ju ned smittsspridningen.
+[07:05.160 --> 07:11.760]  Alla de rekommendationer som ges bygger nu på–
+[07:11.800 --> 07:16.840]  –om man kan minska kontakter mellan människor, så minskar ju smittspridningen.
+[07:16.920 --> 07:22.760]  Det tror jag inte någon forskning i världen, inte ens Lars Jonungs, kan ändra på.
+Programledare:
+[07:22.840 --> 07:28.440]  Men den negativa påverkan som ändå skulle komma då–
+[07:28.520 --> 07:34.200]  –med människor som förmodligen skulle förlora jobben, konkurser bland restauranger–
+[07:34.280 --> 07:37.440]  –som redan har det väldigt svårt...
+[07:37.480 --> 07:42.520]  Även här har det talats om långtidseffekter, avtryck som det kan sätta.
+[07:42.600 --> 07:46.640]  Du har talat om en förlorad ungdomsgeneration, till exempel.
+[07:46.720 --> 07:52.640]  Lars Calmfors, finns det nåt sätt att uppväga de negativa möjliga effekterna?
+Calmfors:
+[07:52.720 --> 07:57.120]  Jo, men det är ju klart att ju mer av restriktioner som man lägger–
+[07:57.200 --> 08:00.040]  –desto mer stöd måste man ju ge.
+[08:00.120 --> 08:07.400]  Man måste ta hänsyn till att man måste anpassa stödpolitiken.
+[08:07.480 --> 08:13.800]  Sen har det kommit... Det finns en alldeles ny studie från Internationella Valutafonden–
+[08:13.880 --> 08:22.520]  –som just pekar på det här. Om man gör en kortare nedstängning, som är hårdare–
+[08:22.600 --> 08:29.440]  –så kan det rent av ha positiva effekter på ekonomin–
+[08:29.520 --> 08:35.880]  –om man jämför med en mild nedstängning eller milda restriktioner under lång tid.
+[08:35.920 --> 08:42.520]  Det verkar som att man redan med milda restriktioner–
+[08:42.600 --> 08:46.640]  –får ganska betydande negativa effekter.
+[08:46.720 --> 08:51.440]  Man får inte så mycket effekt på smittspridningen, enligt den studien.
+[08:51.520 --> 08:55.880]  Man får en mycket bättre relation mellan effekt på smittspridning–
+[08:55.960 --> 09:02.280]  –och negativa effekter på ekonomin om man tar i lite hårdare under kort tid.
+[09:02.320 --> 09:06.760]  Det är deras slutsats. Det är inte bara en enda studie.
+Programledare:
+[09:06.840 --> 09:12.560]  Ni drar ju olika slutsatser av forskningen som finns här–
+[09:12.640 --> 09:16.560]  –och som också pekar i lite olika riktningar.
+[09:16.640 --> 09:22.840]  Om man bara tittar på konsekvenserna för ekonomin om man skulle stänga ner mer...
+[09:22.920 --> 09:29.760]  Kan man kompensera de negativa effekterna med ökade stöd från staten?
+Jonung:
+[09:29.840 --> 09:33.520]  Det är utromäntligt svårt att kompensera för alla skador–
+[09:33.600 --> 09:36.280]  –som åstadkomms av en hård nedstängningspolitik.
+[09:36.360 --> 09:38.760]  Vi kommer att leva under många generationer–
+[09:38.840 --> 09:43.680]  –av de sår som har skapats av nedstängningspolitiken i vår omvärld.
+[09:43.760 --> 09:49.160]  Visst finns det enskilda forskningsrapporter som pekar åt olika håll.
+[09:49.240 --> 09:53.480]  Men poängen med den studie som vi arbetar med är att den är en metastudie.
+[09:53.480 --> 09:58.240]  Det är en försök att kondensera resultatet från alla forskningsprojekt–
+[09:58.320 --> 10:00.640]  –som har handlat om nedstängningspolitik.
+[10:00.720 --> 10:06.360]  När vi kondenserar detta kommer vi fram till en mycket tveksam inställning–
+[10:06.440 --> 10:11.080]  –till nedstängningspolitik. Det är så vi måste gå till väga när vi ska utforma politiken.
+[10:11.160 --> 10:17.600]  Vi måste försöka komma fram till vad budskapet är i den forskning som vi har tillgänglig.
+[10:17.680 --> 10:20.640]  Det är det budskapet som vi ska använda.
+Programledare:
+[10:20.680 --> 10:24.200]  Lars Jonung, vad säger du om det förslag som regeringen har lagt till pandemilag–
+[10:24.280 --> 10:30.080]  –att kunna stänga ner gym? Vad säger du om det lagförslaget?
+Jonung:
+[10:30.160 --> 10:34.680]  Jag anser inte att det är nåt som kommer att ha nån större effekt.
+[10:34.760 --> 10:40.280]  Det är mer symbolpolitik. Men jag är också mycket tveksam mot den typen av åtgärder–
+[10:40.360 --> 10:47.560]  –därför att vi har en grundlag i Sverige som garanterar fri rörlighet för svenska medborgare.
+[10:47.640 --> 10:50.200]  Det är en förutsättning för en liberal demokrati.
+[10:50.240 --> 10:55.520]  Vi ser i många länder utanför Sverige hur den liberala demokratin undergrävs–
+[10:55.600 --> 11:00.880]  –med argumentet att vi måste bekämpa en pandemi. Det är en mycket farlig väg att gå.
+[11:00.960 --> 11:06.400]  Jag är tacksam för att vi har en grundlag som hindrar den typ av hårda nedstängningar–
+[11:06.480 --> 11:10.400]  –som vi har haft i omvärlden, också vara i stort sett destruktiva.
+Programledare:
+[11:10.480 --> 11:16.280]  Lars Calmfors... Förlåt, Lars Jonung. Vi ska släppa in Lars Calmfors lite här också.
+[11:16.280 --> 11:21.840]  Lars Calmfors, du menar ju tvärtom att regeringen faktiskt skulle kunna stänga ner redan nu–
+[11:21.920 --> 11:26.480]  –med de möjligheter som finns i smittskyddslagen.
+Calmfors:
+[11:26.560 --> 11:35.120]  Det finns några formuleringar där som jag tolkar som att det kanske skulle kunna göras.
+[11:35.200 --> 11:38.760]  Nu är inte jag jurist.
+[11:38.840 --> 11:45.880]  Jag skulle säga så här att det är ytterst förvånande att vi har haft nio månader på oss–
+[11:45.880 --> 11:49.160]  –att få fram en lagstiftning.
+[11:49.240 --> 11:57.840]  Det är ju ett gigantiskt... Det skulle helt klart möjliggöra hårdare restriktioner.
+[11:57.920 --> 12:03.600]  Det är ett enormt misslyckande för politiken att inte få fram den lagstiftningen.
+[12:03.680 --> 12:09.200]  Vi skulle behöva den nu, inte när vaccinationsprogrammen har kommit igång.
+[12:09.320 --> 12:11.960]  Sen vill jag lägga till nånting.
+[12:12.040 --> 12:17.040]  Det är ju trots allt så att hotell, restauranger och detaljhandel–
+[12:17.120 --> 12:20.040]  –är en ganska liten del av ekonomin.
+[12:20.120 --> 12:23.560]  Det är inte nån fullständig nedstängning av ekonomin vi talar om.
+[12:23.640 --> 12:30.960]  Det är en mycket liten del av ekonomin, men där är det sannolikt äger rum en hel del smittspridning.
+Programledare:
+[12:31.040 --> 12:38.320]  Tack. Jag tror att vi får nog sätta ett litet stopp för den här diskussionen just nu.
+[12:38.320 --> 12:42.120]  Lars Calmfors, professor i nationalekonomi vid Stockholms universitet.
+[12:42.200 --> 12:47.000]  Vi hörde också Lars Jonung, detsamma vid Lunds universitet–
+[12:47.080 --> 12:50.920]  –om för- och nackdelar med nedstängning av ekonomin nu när smittan sprids.

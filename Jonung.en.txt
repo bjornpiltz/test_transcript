@@ -1,0 +1,186 @@
+<h1><a href= "https://sverigesradio.se/artikel/7621007">The economical price of the pandemic</a></h1>
+Debate in Swedish public service radio between Lars Jonung and Lars Calmfors, Dec 10, 2020. 
+<i>Automatic translation by whisper.cpp.</i>
+Host:
+[00:00.000 --> 00:04.920] We will talk about the economy and corona restrictions.
+[00:05.000 --> 00:09.040] It is a difficult situation in the pandemic with a large spread of infection.
+[00:09.120 --> 00:12.920] Would Sweden cope with a more severe lockdown of society?
+[00:13.000 --> 00:14.840] to stop the corona infection?
+[00:14.920 --> 00:18.400] Or would the price be too high for the Swedish economy?
+[00:18.480 --> 00:21.880] with the risk of bankruptcies and increased unemployment?
+[00:21.960 --> 00:25.600] Economists are divided on this issue.
+[00:25.680 --> 00:28.320] Yesterday, the government said it wants to be able to close down the
+[00:28.320 --> 00:31.240] including gyms and shopping centers with a new pandemic law.
+[00:31.320 --> 00:34.720] which is scheduled to take effect in three months.
+[00:34.800 --> 00:36.440] We are joined by Lars Calmfors.
+[00:36.520 --> 00:39.880] who is professor of economics at Stockholm University.
+[00:39.960 --> 00:43.960] and sits in the Minister of Finance's reference group for corona measures.
+[00:44.040 --> 00:46.880] Good morning. -Good morning.
+[00:46.960 --> 00:53.080] You think there should be tighter restrictions now. How?
+Calmfors:
+[00:53.160 --> 00:58.160] Yes, we are in a very critical situation regarding the spread of the virus.
+[00:58.960 --> 01:00.760] Before Christmas here.
+[01:00.840 --> 01:04.920] I think more is needed if we're going to stop the whole thing
+[01:05.000 --> 01:08.520] or keep it at a slightly lower level.
+[01:08.600 --> 01:12.600] I think the arguments for tougher restrictions have strengthened- 
+[01:12.680 --> 01:14.640] as we now see ahead of us
+[01:14.720 --> 01:20.720] that we'll have vaccination programs being rolled out here in the spring.
+[01:20.800 --> 01:27.240] This means that we have to manage and bridge a period until then.
+[01:27.400 --> 01:32.600] But as we look ahead, the arguments are strengthened...
+[01:32.680 --> 01:35.800]  that we should make that extra effort now.
+Host:
+[01:35.880 --> 01:42.360] What is the closure that you want to see? What is it that needs to be shut down further?
+Calmfors:
+[01:42.440 --> 01:50.960] I think you probably need to close gyms, restaurants and some shops.
+[01:51.040 --> 01:55.880] More binding restrictions are needed there.
+Host:
+[01:56.760 --> 02:03.680] Many warn that increased closures will lead to unemployment and bankruptcies.
+[02:03.760 --> 02:07.160] Restaurants are already very hard pressed.
+[02:07.240 --> 02:10.720] How do you view the price of closing down?
+Calmfors:
+[02:10.800 --> 02:17.120] It's clear that immediately, so to speak, more closures will lead to- 
+[02:17.200 --> 02:20.600] to more severe economic consequences.
+[02:20.680 --> 02:24.360] But you have to see it in a slightly longer time perspective.
+[02:24.440 --> 02:29.720] There is some evidence that if you do a more severe shutdown for a short period of time
+[02:29.800 --> 02:34.200]  it could actually be economically beneficial.
+[02:34.280 --> 02:40.560] If you compare it to the fact that we have quite severe restrictions for a very long time....
+[02:40.640 --> 02:45.040] But even if that were not the case...
+[02:45.120 --> 02:49.480] that there is an economic benefit to doing what I'm proposing
+[02:49.480 --> 02:57.920] I think the gain in terms of human lives saved is still worth taking.
+Host:
+[02:58.000 --> 03:05.400] We are also joined by Lars Jonung, Professor of Economics at Lund University.
+[03:05.480 --> 03:10.000] Good morning. -You don't think society should be shut down.
+[03:10.080 --> 03:11.760] Why not?
+Jonung:
+[03:11.840 --> 03:16.480] I think our corona policy should be based on scientific evidence.
+[03:16.520 --> 03:22.440] I'm currently involved in a study at Johns Hopkins University in the U.S.
+[03:22.520 --> 03:29.680] where we are looking at the effect of lockdowns on corona mortality.
+[03:29.760 --> 03:34.200] The results indicate that the lockdown policy...
+[03:34.280 --> 03:38.880] has no or a very weak effects on mortality.
+[03:38.960 --> 03:44.080] In contrast, lockdowns have disastrous effects on the national economy.
+[03:44.760 --> 03:47.800] We don't have this tradeoff...
+[03:47.880 --> 03:53.280] between the fact that we're going to get some sort of health effect from closures
+[03:53.360 --> 03:56.960] and serious consequences on the national economy.
+Host:
+[03:57.040 --> 04:00.920] How confident is that conclusion, would you say
+[04:01.000 --> 04:07.400] that shutdown would not save human lives?
+Jonung:
+[04:07.480 --> 04:09.960] All research is preliminary.
+[04:10.000 --> 04:16.040] It is only in three, four, five years that we can determine the best policy.
+[04:16.120 --> 04:22.080] But we have to make our decisions based on the scientific evidence we have today.
+[04:22.160 --> 04:24.640] It points very clearly towards
+[04:24.720 --> 04:31.040] lockdowns being an unpromising way to deal with the corona epidemic.
+Host:
+[04:31.120 --> 04:34.520] What are the risks to the economy?
+[04:34.560 --> 04:40.360] How would it be affected if you were to shut down as Lars Calmfors says?
+[04:40.440 --> 04:43.320] Closing gyms, closing restaurants for a while.
+Jonung:
+[04:43.400 --> 04:48.560] Those are pretty harmless closures compared to closures
+[04:48.640 --> 04:55.200] which are used in countries like Belgium, Italy, Spain and France- 
+[04:55.280 --> 05:59.920] where they've used measures that we can't implement in Sweden.
+[04:59.960 --> 05:05.960] because we have a constitution that guarantees every Swedish citizen freedom of movement
+[05:06.040 --> 05:08.960] in our society and across our borders.
+[05:09.040 --> 05:15.400] That constitution has fortunately prevented us from having harsh lockdowns.
+Host:
+[05:15.480 --> 05:19.800] But if we talk about the discussion....
+[05:19.880 --> 05:23.960] and what is in the government's proposal for the pandemic law
+[05:24.000 --> 05:29.840] such as being able to close shopping malls and gyms
+[05:29.920 --> 05:34.960] and restrict visits to restaurants, what do you say about that?
+Jonung:
+[05:35.040 --> 05:40.120] There is little scientific support for that kind of closure policy.
+[05:40.200 --> 05:42.200] It is more token politics.
+[05:42.280 --> 05:48.120] In a general pandemic panic, the government wants to appear decisive.
+[05:48.200 --> 05:52.600] So they do these things. - But what would that mean for the economy?
+[05:52.640 --> 05:58.800] All shutdowns have very negative effects on the economy.
+[05:58.880 --> 06:02.480] Not only that. It has difficult distributional effects.
+[06:02.560 --> 06:07.160] It is low-income and low-skilled people who are affected by closures.
+[06:07.240 --> 06:10.040] It is children who are affected by school closures.
+[06:10.120 --> 06:12.800] Probably women are more affected than men.
+[06:12.880 --> 06:18.680] Women have had to take over a lot of tasks that would otherwise go unnoticed.
+[06:18.760 --> 06:23.360] The entire scientific support for lockdown policies is <inaudible>.
+Host:
+[06:23.440 --> 06:26.840] We'll let Lars Calmfors in here too.
+[06:26.920 --> 06:31.600] What do you say about that? There is no evidence that it would help...
+[06:31.680 --> 06:35.640] to shut down the economy more.
+Calmfors:
+[06:35.720 --> 06:42.280] Well... A lot of research is being produced very quickly now.
+[06:42.360 --> 06:49.400] There are research results that point in many different directions.
+[06:49.480 --> 06:55.200] I don't agree at all with Lars Jonung's firm conclusions here.
+[06:55.280 --> 07:01.440] We also see now how in countries in Europe that have applied more stringent lockdowns
+[07:01.520 --> 07:05.080] they are reducing the spread of infection.
+[07:05.160 --> 07:11.760] All the recommendations that are given are now based on
+[07:11.800 --> 07:16.840] if you can reduce contact between people, you will reduce the spread of infection.
+[07:16.920 --> 07:22.760] I don't think any research in the world, not even Lars Jonungs, can change that.
+Host:
+[07:22.840 --> 07:28.440] But the negative impact that would still come then...
+[07:28.520 --> 07:34.200] with people who would probably lose their jobs, bankruptcies among restaurants
+[07:34.280 --> 07:37.440] who are already having a very hard time....
+[07:37.480 --> 07:42.520] Again, there's been talk about the long-term effects, the impact that it could have.
+[07:42.600 --> 07:46.640] You have talked about a lost youth generation, for example.
+[07:46.720 --> 07:52.640] Lars Calmfors, is there any way to offset the possible negative effects?
+Calmfors:
+[07:52.720 --> 07:57.120] Yes, but it is clear that the more restrictions that you put in place
+[07:57.200 --> 08:00.040] the more support you have to give.
+[08:00.120 --> 08:07.400] You have to take into account that you have to adapt the support policy.
+[08:07.480 --> 08:13.800] Then there has been... There is a very recent study from the International Monetary Fund
+[08:13.880 --> 08:22.520] that just points to this. If you do a shorter shutdown, which is more severe...
+[08:22.600 --> 08:29.440] it could actually have positive effects on the economy
+[08:29.520 --> 08:35.880] compared to a mild shutdown or mild restrictions for a long time.
+[08:35.920 --> 08:42.520] It seems that already with mild restrictions
+[08:42.600 --> 08:46.640]  have quite significant negative effects.
+[08:46.720 --> 08:51.440] You don't get much effect on the spread of infection, according to that study.
+[08:51.520 --> 08:55.880] You get a much better relationship between the effect on the spread of infection
+[08:55.960 --> 09:02.280] and negative effects on the economy if you push a little harder for a short time.
+[09:02.320 --> 09:06.760] That's their conclusion. It's not just a single study.
+Host:
+[09:06.840 --> 09:12.560] You're drawing different conclusions from the research that's here...
+[09:12.640 --> 09:16.560] and also pointing in slightly different directions.
+[09:16.640 --> 09:22.840] If you just look at the impact on the economy if you were to shut down more...
+[09:22.920 --> 09:29.760] Can you offset the negative effects with increased government support?
+Jonung:
+[09:29.840 --> 09:33.520] It is incredibly difficult to compensate for all the damages...
+[09:33.600 --> 09:36.280] which is caused by a harsh closure policy.
+[09:36.360 --> 09:38.760] We will live for many generations- 
+[09:38.840 --> 09:43.680] from the wounds created by lockdown policies in our world.
+[09:43.760 --> 09:49.160] Certainly there are individual research reports that point in different directions.
+[09:49.240 --> 09:53.480] But the point of the study that we are working on is that it is a meta-study.
+[09:53.480 --> 09:58.240] It's an attempt to condense the results of all the research projects.
+[09:58.320 --> 10:00.640] that have dealt with lockdown policies.
+[10:00.720 --> 10:06.360] When we condense this, we come up with a very skeptical attitude- 
+[10:06.440 --> 10:11.080] to lockdown policies. That's how we have to go about designing the policy.
+[10:11.160 --> 10:17.600] We have to try to figure out what the message is in the research that we have available.
+[10:17.680 --> 10:20.640] That's the message that we will use.
+Host:
+[10:20.680 --> 10:24.200] Lars Jonung, what do you say about the proposal that the government has made to the pandemic team?
+[10:24.280 --> 10:30.080]  to be able to close down gyms? What do you say about that bill?
+Jonung:
+[10:30.160 --> 10:34.680] I don't think it's something that will have much effect.
+[10:34.760 --> 10:40.280] It's more symbolic politics. But I'm also very hesitant about that kind of measures
+[10:40.360 --> 10:47.560] because we have a constitution in Sweden that guarantees free movement for Swedish citizens.
+[10:47.640 --> 10:50.200] It is a prerequisite for a liberal democracy.
+[10:50.240 --> 10:55.520] We see in many countries outside Sweden how liberal democracy is being undermined
+[10:55.600 --> 11:00.880] with the argument that we have to fight a pandemic. This is a very dangerous way to go.
+[11:00.960 --> 11:06.400] I am grateful that we have a constitution that prevents that kind of harsh shutdown
+[11:06.480 --> 11:10.400] that we've had in the outside world, also be largely destructive.
+Host:
+[11:10.480 --> 11:16.280] Lars Calmfors ... Sorry, Lars Jonung. We'll let Lars Calmfors in here too.
+[11:16.280 --> 11:21.840] Lars Calmfors, on the contrary, you mean that the government could actually shut down already now-
+[11:21.920 --> 11:26.480] with the possibilities that exist in the infection control law.
+Calmfors:
+[11:26.560 --> 11:35.120] There are some formulations there that I interpret as meaning that it could perhaps be done.
+[11:35.200 --> 11:38.760] Now I am not a lawyer.
+[11:38.840 --> 11:45.880] I would say that it is extremely surprising that we have had nine months
+[11:45.880 --> 11:49.160] to get legislation.
+[11:49.240 --> 11:57.840] That's a gigantic... It would certainly allow for tighter restrictions.
+[11:57.920 --> 12:03.600] It is a huge failure of politics not to get that legislation.
+[12:03.680 --> 12:09.200] We would need it now, not when the vaccination programs have started.
+[12:09.320 --> 12:11.960] Then I want to add something.
+[12:12.040 --> 12:17.040] It is, after all, the case that hotels, restaurants and retail stores
+[12:17.120 --> 12:20.040] are a pretty small part of the economy.
+[12:20.120 --> 12:23.560] We're not talking about a complete shutdown of the economy.
+[12:23.640 --> 12:30.960] It is a very small part of the economy, but there is probably a lot of contagion taking place.
+Host:
+[12:31.040 --> 12:38.320] Thank you. I think we should probably put a little stop to this discussion right now.
+[12:38.320 --> 12:42.120] Lars Calmfors, Professor of Economics at Stockholm University.
+[12:42.200 --> 12:47.000] We also heard from Lars Jonung, the same at Lund University.
+[12:47.080 --> 12:50.920] about the pros and cons of shutting down the economy now that the infection is spreading.
