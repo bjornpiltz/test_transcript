@@ -1,6 +1,6 @@
 <h1>The economic price of the pandemic</h1>
 Debate in Swedish public service radio between Lars Jonung and Lars Calmfors, <a href= "https://sverigesradio.se/artikel/7621007">Dec 10, 2020</a>. 
-<i>Automatic translation by whisper.cpp.</i>
+<i>Automatic translation by whisper.cpp. <a href = "#Jonung.txt">Swedish version here</a></i><br><br>
 Host:
 [00:00.000 --> 00:04.920] We will talk about the economy and corona restrictions.
 [00:05.000 --> 00:09.040] It is a difficult situation in the pandemic with a large spread of infection.

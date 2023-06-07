@@ -1,5 +1,6 @@
 <h1>Det ekonomiska priset för pandemin</h1>
-Debatt i SR: P1 mellan Lars Jonung och Lars Calmfors, <a href= "https://sverigesradio.se/artikel/7621007">10 dec 2020</a>. <i>Automatiskt transkript med hjälp av whisper.cpp.</i>
+Debatt i SR: P1 mellan Lars Jonung och Lars Calmfors, <a href= "https://sverigesradio.se/artikel/7621007">10 dec 2020</a>. 
+<i>Automatiskt transkript med hjälp av whisper.cpp. <a href = "#Jonung.en.txt">Engelsk översättning här.</a></i></i><br><br>
 Programledare:
 [00:00.000 --> 00:04.920]  Vi ska tala om ekonomin och coronarestriktioner.
 [00:05.000 --> 00:09.040]  Det är ett svårt läge i pandemin med stor smittspridning.

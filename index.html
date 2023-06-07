@@ -31,8 +31,8 @@
                   // Get the timestamp and text
                   var timestamp = parts[0];
                   var text = parts[1].trim();
-
-                  const regex = /\.\d{3} --> (\d{2}:)?\d{2}:\d{2}\.\d{3}/g
+                  
+                  const regex = /[\.,]\d{3} --> (\d{2}:)?\d{2}:\d{2}[\.,]\d{3}/g
                   timestamp = timestamp.replace(regex, "");
                   timestamp = timestamp.replace("[", "");
 
@@ -40,8 +40,6 @@
                   htmlContent += '<tr><td align= "left" style="vertical-align:top;padding-right:15px;color:gray">' +
                                  timestamp + '</td><td>' +
                                  text + '</td></tr>';
-
-
                 }
                 else{
                   htmlContent += '<tr><th></th><th align= "left">' + lines[i] + '</th></tr>';
@@ -51,19 +49,39 @@
                 
                 // Set the HTML content in the transcript container
                 $('#transcriptContainer').html(htmlContent);
+              }).fail(function() {
+                // Handle the error for a 404 response
+                $('#transcriptContainer').html('Error: 404 - File ' + filename + 'not found');
               });
+              document.addEventListener('click', function(event) {
+
+                // Check if the clicked element is an anchor (link) with a fragment identifier
+                if (event.target.tagName === 'A' && event.target.hash) {
+
+                  // Retrieve the new fragment identifier
+                  var fragment = event.target.hash.slice(1);
+
+                  // Prevent the default link behavior (scrolling to the fragment)
+                  //event.preventDefault();
+                  loadPage(fragment);
+                }
+              });
+
           }
         </script>
     </head>
     <body>
-      <input id="clickMeEN" type="button" value="English"/>
-      <input id="clickMeSE" type="button" value="Swedish"/>
         <div id="transcriptContainer" class="section level1"></div>
         <script>
             $(document).ready(function() {
-              document.getElementById("clickMeSE").onclick = function () { loadPage('Jonung.txt'); };
-              document.getElementById("clickMeEN").onclick = function () { loadPage('Jonung.en.txt'); };
-              loadPage('Jonung.txt')
+
+              var fragment = window.location.hash.replace("#", "");
+              
+              if (fragment){
+                  loadPage(fragment)
+              }else{
+                  loadPage('Jonung.txt')
+              }
             });
           </script>
     </body>
